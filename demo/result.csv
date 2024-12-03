@@ -1,0 +1,6 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,predicted_price
+Tata Tigor 1.2 Revotron XT,2018,35000,Petrol,Individual,Manual,First Owner,20.3,1199.0,84.0,5.0,477900.60436664405
+Mahindra NuvoSport N8 AMT,2016,50000,Diesel,Individual,Automatic,First Owner,17.45,1493.0,100.0,7.0,833140.3790432445
+Toyota Innova 2.5 GX 7 STR,2012,162000,Diesel,Individual,Manual,Fourth & Above Owner,12.8,2494.0,102.0,7.0,811301.641497709
+Hyundai Sonata 2.0L CRDi MT,2009,180000,Diesel,Individual,Manual,First Owner,13.6,1991.0,142.0,5.0,637611.0353013579
+Hyundai i20 1.4 CRDi Era,2010,90000,Diesel,Individual,Manual,Second Owner,23.0,1396.0,90.0,5.0,332733.2284382207
